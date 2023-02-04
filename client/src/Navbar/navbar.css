@@ -1,0 +1,9 @@
+.navbar__main {
+  display: flex;
+  height: 100px;
+  background-color: rgb(131, 211, 131);
+  font-size: 50px;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}

@@ -1,8 +1,9 @@
 import React from 'react'
+import './navbar.css'
 
 function Navbar() {
   return (
-    <div>BINGO</div>
+    <div className='navbar__main'>BINGO</div>
   )
 }
 

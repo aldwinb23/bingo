@@ -7,7 +7,22 @@ function App() {
     <div className="App">
       <Navbar />
       <header className="App-header">
-        BINGO!!
+        <div>
+          Log in as:
+        </div>
+        <div>
+          <button>
+            Player
+          </button>
+        </div>
+        <div>
+          or
+        </div>
+        <div>
+          <button>
+            Caller
+          </button>
+        </div>
       </header>
     </div>
   );
