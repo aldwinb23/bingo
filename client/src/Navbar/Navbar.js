@@ -5,14 +5,14 @@ import { AiOutlineBars } from 'react-icons/ai';
 function Navbar() {
   return (
     <div className='navbar__main'>
-      <div>
+      <div className='navbar__menu'>
         <AiOutlineBars />
       </div>
-      <div>
+      <div className='navbar__bingo'>
         BINGO
       </div>
       <div className='navbar__name'>
-        Name
+        ALDWIN
       </div>
     </div>
   )
