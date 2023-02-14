@@ -12,7 +12,7 @@ function Navbar() {
         BINGO
       </div>
       <div className='navbar__name'>
-        ALDWIN
+        Player: <br /> Aldwin
       </div>
     </div>
   )
